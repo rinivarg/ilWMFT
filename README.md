@@ -5,7 +5,7 @@ This GitHub repository linked within OSF contains the data table and code for an
 1) **Data:** [wmftDatadeID.csv](https://github.com/rinivarg/ilWMFT/blob/master/wmftData_deID.csv)
 2) **Analysis code on Jupyter Notebook:** [ilWMFT_Analysis_Code.ipynb](https://github.com/rinivarg/ilWMFT/blob/master/ilWMFT_Analysis_Code.ipynb). 
     - To interactively use Jupyter Notebooks you need to use an environment like Binder. 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rinivarg/ilWMFT/master?filepath=ilWMFT_Analysis_Code)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rinivarg/ilWMFT/a37553a?filepath=ilWMFT_Analysis_Code.ipynb)
 
     
 3) **Analysis code for viewing only:** [ilWMFT_Analysis_Code.html](https://github.com/rinivarg/ilWMFT/blob/master/ilWMFT_Analysis_Code.html)
