@@ -1,7 +1,7 @@
 # ilWMFT
 [![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://grantome.com/grant/NIH/F31-HD098796-01)
 
-This GitHub repository linked within OSF contains the data table and code for analysis for the papeer published in *Frontiers in Neurology* titled: [**Relationship Between Motor Capacity of the Contralesional and Ipsilesional Hand Depends on the Side of Stroke in Chronic Stroke Survivors With Mild-to-Moderate Impairment**](https://doi.org/10.3389/fneur.2019.01340)
+This GitHub repository linked within OSF contains the data table and code for analysis for the paper published in *Frontiers in Neurology* titled: [**Relationship Between Motor Capacity of the Contralesional and Ipsilesional Hand Depends on the Side of Stroke in Chronic Stroke Survivors With Mild-to-Moderate Impairment**](https://doi.org/10.3389/fneur.2019.01340)
 
 
 1) **Data:** [wmftDatadeID.csv](https://github.com/rinivarg/ilWMFT/blob/master/wmftData_deID.csv)
