@@ -1,4 +1,5 @@
 # ilWMFT
+[![OSF](https://img.shields.io/badge/DOI%20-10.17605%2Fosf.io%2Fpbtk9-yellowgreen)](https://osf.io/pbtk9/)
 [![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://grantome.com/grant/NIH/F31-HD098796-01)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)
 
